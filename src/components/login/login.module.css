@@ -1,0 +1,23 @@
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -200px;
+    margin-top: -250px;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    color: #EEE;
+}
+
+.login-form h3 {
+    height: 20px;
+    line-height: 20px;
+    padding: 0 0 35px 0;
+    text-align: center;
+    font: 20px "microsoft yahei",Helvetica,Tahoma,Arial,"Microsoft jhengHei",sans-serif;
+}
+
+.login-form-button {
+    width: 100%;
+}
